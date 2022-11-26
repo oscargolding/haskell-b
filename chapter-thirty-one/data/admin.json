@@ -1,0 +1,16 @@
+[
+    {
+        "username_a": "qtsteenie",
+        "shell_a": "C:/powershell.exe",
+        "homeDirectory_a": "C:/Users/gabriel",
+        "realName_a": "Gabriel Golding",
+        "phone_a": "1234567"
+    },
+    {
+        "username_a": "ezhong",
+        "shell_a": "/usr/bin/zsh",
+        "homeDirectory_a": "/user/ezhong",
+        "realName_a": "Elizabeth Zhong",
+        "phone_a": "7654321"
+    }
+]
